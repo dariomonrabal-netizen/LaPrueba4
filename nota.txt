@@ -1,0 +1,2 @@
+Lo único que falta es que el departamento fuera un JComboBox. Todo lo demás, ok.
+Nota: 4.5
